@@ -53,9 +53,10 @@ The models were benchmarked fiercely, tracking Accuracy, Precision, Recall, and 
 | **Zhang CNN** | 99.92% | **99.97%** | 99.87% | 99.92% |
 | **Basic CNN** | 99.22% | 99.07% | 99.37% | 99.22% |
 
-<p align="center">
-  <img src="./Output/Comparisons/Dataset1_BarChart.png" alt="Dataset 1 Bar Chart" width="24%" />
-  <img src="./Output/Comparisons/Dataset1_Combined_ROC.png" alt="Dataset 1 ROC Curve" width="24%" />
+<p align="left">
+  <img src="./Output/Comparisons/Dataset1_BarChart.png" alt="Dataset 1 Bar Chart" width="100%" />
+  <br />
+  <img src="./Output/Comparisons/Dataset1_Combined_ROC.png" alt="Dataset 1 ROC Curve" width="100%" />
 </p>
 
 #### Dataset 1 Confusion Matrices & Training History
@@ -84,9 +85,10 @@ Dataset 2 represents a more challenging baseline with slightly more nuanced back
 | **Zhang CNN** | 99.25% | **99.90%** | 99.24% | 99.57% |
 | **Basic CNN** | 89.85% | 96.69% | 91.47% | 94.01% |
 
-<p align="center">
-  <img src="./Output/Comparisons/Dataset2_BarChart.png" alt="Dataset 2 Bar Chart" width="24%" />
-  <img src="./Output/Comparisons/Dataset2_Combined_ROC.png" alt="Dataset 2 ROC Curve" width="24%" />
+<p align="left">
+  <img src="./Output/Comparisons/Dataset2_BarChart.png" alt="Dataset 2 Bar Chart" width="100%" />
+  <br />
+  <img src="./Output/Comparisons/Dataset2_Combined_ROC.png" alt="Dataset 2 ROC Curve" width="100%" />
 </p>
 
 #### Dataset 2 Confusion Matrices & Training History
