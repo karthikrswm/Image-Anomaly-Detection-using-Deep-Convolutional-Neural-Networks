@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Data and Output directories (uncomment if you want to ignore these by default)
+# Data/
+# Output/
+
+# Saved Models
+*.h5
+*.keras
+
+# Ignore .rar files inside any subfolder of Data
+Data/**/*.rar
